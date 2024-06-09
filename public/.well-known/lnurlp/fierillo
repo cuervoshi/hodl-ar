@@ -1,0 +1,9 @@
+{
+  "tag": "payRequest",
+  "callback": "https://wallet.lacrypta.ar/lnurlp/api/v1/lnurl/cb/CmXqzy",
+  "minSendable": 1000,
+  "maxSendable": 100000000,
+  "metadata": "[[\"text/plain\", \"Fierillo's La crypta lightning address\"]]",
+  "allowsNostr": true,
+  "nostrPubkey": "7536d5bd0ac0c306036ff8ab2f4c267965359bd5f34f5d172d5432143244ed4c"
+}
